@@ -10,6 +10,7 @@ Every ranking names its source. Where a ranking was calculated from public data,
 - [Europe](#europe)
 - [Americas](#americas)
 - [Asia-Pacific](#asia-pacific)
+- [Middle East and Africa](#middle-east-and-africa)
 <!-- toc-end -->
 
 ## Global Data Sources
@@ -242,6 +243,50 @@ Every ranking names its source. Where a ranking was calculated from public data,
 - [SEEK](https://www.seek.com.au/) - General job board with a large IT section.
 - [YOW!](https://yowcon.com/) - Software development conference series.
 - [PyCon AU](https://pycon.org.au/) - Python conference.
+
+## Middle East and Africa
+
+### Israel
+
+- [Israel Innovation Authority: The State of High-Tech 2025](https://innovationisrael.org.il/en/report/the-state-of-high-tech-2025/) - Official annual report on high-tech employment, output, and investment.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=229): Python 62%, JavaScript 59%, Bash/Shell 51%, SQL 51%, HTML/CSS 49%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/il) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, Java, C.
+- [AllJobs](https://www.alljobs.co.il/) - General job board with a high-tech section.
+- [Reversim Summit](https://summit.reversim.com/) - Community developer conference.
+
+### Turkey
+
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=202): JavaScript 64%, SQL 58%, HTML/CSS 57%, Python 50%, TypeScript 41%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/tr) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, C#, C++.
+- [Kariyer.net](https://www.kariyer.net/) - General job board with an IT category.
+- [Techcareer.net](https://www.techcareer.net/) - Tech hiring and training platform.
+
+### Nigeria
+
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) - Nigeria is named among the leading growth markets in Africa and the Middle East.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/ng) - Top languages by developers pushing code, 2026 Q1: JavaScript, TypeScript, Python, PHP, PLpgSQL.
+- [Jobberman](https://www.jobberman.com/) - General job board with an IT category.
+
+### Kenya
+
+- [BCG: Develop the Developers](https://www.bcg.com/publications/2026/develop-the-developers-a-strategic-priority-for-africa) - Names Kenya, with Tunisia and Morocco, as a regional leader in both developer scale and growth.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/ke) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, PHP, C.
+- [BrighterMonday](https://www.brightermonday.co.ke/) - General job board with an IT category.
+
+### South Africa
+
+- [OfferZen State of the Software Developer Nation 2025](https://www.offerzen.com/reports/software-developer-south-africa) - 3,423 responses (September to November 2024); JavaScript is the most used language, with SQL 1.2 points behind.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=176): JavaScript 76%, SQL 74%, HTML/CSS 74%, Python 51%, TypeScript 51%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/za) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, Java, C#.
+- [OfferZen](https://www.offerzen.com/) - Developer job marketplace.
+- [PNet](https://www.pnet.co.za/) - General job board with an IT category.
+- [DevConf](https://devconf.co.za/) - Conference for South African software developers.
+
+### Egypt
+
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) - Egypt is named among the leading growth markets in Africa and the Middle East.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/eg) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, C++, C.
+- [Wuzzuf](https://wuzzuf.net/) - Job board widely used for tech roles.
 
 ## Contributing
 
