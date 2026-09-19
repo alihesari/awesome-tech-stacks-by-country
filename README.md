@@ -8,6 +8,7 @@ Every ranking names its source. Where a ranking was calculated from public data,
 
 - [Global Data Sources](#global-data-sources)
 - [Europe](#europe)
+- [Americas](#americas)
 <!-- toc-end -->
 
 ## Global Data Sources
@@ -125,6 +126,54 @@ Every ranking names its source. Where a ranking was calculated from public data,
 - [Habr Career](https://career.habr.com/) - IT job board and salary calculator of the Habr developer community.
 - [hh.ru](https://hh.ru/) - General job board with a large IT section.
 - [HighLoad++](https://highload.ru/) - Conference on high-load systems.
+
+## Americas
+
+### United States
+
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) - The US has the most GitHub developers (28 million).
+- [BLS Occupational Outlook Handbook](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm) - Official employment, pay, and projection data for software developers, QA analysts, and testers.
+- [Dice Tech Salary Report](https://www.dice.com/hiring/recruitment/reports/dice-tech-salary-report/) - Annual survey of US tech professionals' salaries and skills.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=5193): JavaScript 72%, HTML/CSS 65%, SQL 64%, Python 61%, Bash/Shell 57%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/us) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, C++, C.
+- [Dice](https://www.dice.com/) - Tech job board.
+- [Built In](https://builtin.com/) - Tech job board organized by city.
+- [PyCon US](https://us.pycon.org/) - Python conference.
+- [QCon San Francisco](https://qconsf.com/) - Software engineering conference.
+
+### Canada
+
+- [Job Bank outlook: Software developers and programmers](https://www.jobbank.gc.ca/outlookreport/occupation/22547) - Government of Canada labour market outlook, wages, and projected openings for the occupation.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=935): JavaScript 70%, HTML/CSS 66%, SQL 62%, Python 55%, Bash/Shell 52%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/ca) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, C++, C.
+- [Job Bank](https://www.jobbank.gc.ca/) - Government of Canada job board.
+- [Web Summit Vancouver](https://vancouver.websummit.com/) - Technology conference.
+
+### Brazil
+
+- [Código Fonte TV Pesquisa Salarial de Programadores 2026](https://pesquisa.codigofonte.com.br/2026) - 17,046 respondents (February to June 2026); most reported main languages: Java (2,808), C# (2,496), TypeScript (2,402), Python (2,350), JavaScript (1,988).
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) - Brazil ranks 4th by GitHub developers (6.89 million) and is projected to reach 19.6 million by 2030.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=562): JavaScript 74%, HTML/CSS 68%, SQL 67%, Python 53%, TypeScript 52%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/br) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, Java, C.
+- [ProgramaThor](https://programathor.com.br/) - Developer job board.
+- [GeekHunter](https://www.geekhunter.com.br/) - Tech recruiting platform.
+- [TDC (The Developer's Conference)](https://thedevconf.com/) - Multi-track developer conference.
+
+### Argentina
+
+- [Sysarmy / openqube Encuesta de Sueldos](https://sueldos.openqube.io/) - Twice-yearly IT salary survey with a public dataset; the 2025.1 round had about 5,400 respondents ([announcement](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2025-1/)).
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=157): JavaScript 77%, HTML/CSS 70%, SQL 66%, TypeScript 61%, Python 52%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/ar) - Top languages by developers pushing code, 2026 Q1: JavaScript, TypeScript, Python, Java, C#.
+- [Get on Board](https://www.getonbrd.com/) - Tech job board for Latin America.
+- [Nerdearla](https://nerdear.la/) - Free tech conference organized by the Sysarmy community.
+
+### Mexico
+
+- [Data México: software developers and analysts](https://www.economia.gob.mx/datamexico/es/profile/occupation/desarrolladores-y-analistas-de-software-y-multimedia) - Official ENOE labour survey data: about 390,000 people employed in the occupation in Q1 2026, with salary and state breakdowns.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=191): JavaScript 81%, HTML/CSS 76%, SQL 71%, Python 56%, TypeScript 52%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/mx) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, Java, PHP.
+- [OCC Mundial](https://www.occ.com.mx/) - General job board with an IT category.
+- [Get on Board](https://www.getonbrd.com/) - Tech job board for Latin America.
 
 ## Contributing
 
