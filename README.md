@@ -9,6 +9,7 @@ Every ranking names its source. Where a ranking was calculated from public data,
 - [Global Data Sources](#global-data-sources)
 - [Europe](#europe)
 - [Americas](#americas)
+- [Asia-Pacific](#asia-pacific)
 <!-- toc-end -->
 
 ## Global Data Sources
@@ -174,6 +175,73 @@ Every ranking names its source. Where a ranking was calculated from public data,
 - [GitHub Innovation Graph](https://innovationgraph.github.com/economies/mx) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, Java, PHP.
 - [OCC Mundial](https://www.occ.com.mx/) - General job board with an IT category.
 - [Get on Board](https://www.getonbrd.com/) - Tech job board for Latin America.
+
+## Asia-Pacific
+
+### India
+
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) - India has 21.9 million GitHub developers, added 5.2 million in the year, overtook the US in open source contributors, and is projected to reach 57.5 million by 2030.
+- [NASSCOM Technology Sector in India: Strategic Review](https://nasscom.in/knowledge-center/publications/technology-sector-india-strategic-review-2026) - Annual industry review of revenue, hiring, and workforce size (5.80 million employees in the 2025 edition).
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=1516): JavaScript 70%, HTML/CSS 59%, SQL 57%, Python 53%, TypeScript 45%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/in) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, Java, C++.
+- [Naukri](https://www.naukri.com/) - General job board with a large IT section.
+- [Cutshort](https://cutshort.io/) - Tech job board.
+- [PyCon India](https://in.pycon.org/) - Python conference.
+
+### China
+
+- [JetBrains: Insights into China's Developer Landscape](https://blog.jetbrains.com/research/2026/01/insights-into-china-s-developer-landscape-key-trends/) - From the 2025 Developer Ecosystem survey: 60% of developers in China use Java as a primary language, against 28% worldwide.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=145): Python 68%, JavaScript 52%, Bash/Shell 44%, SQL 44%, Java 43%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/cn) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, Java, C++.
+- [BOSS Zhipin](https://www.zhipin.com/) - General job board widely used for tech roles.
+- [Lagou](https://www.lagou.com/) - Internet and tech job board.
+- [QCon China](https://qcon.infoq.cn/) - Software engineering conference run by InfoQ China.
+
+### Japan
+
+- [paiza programming language survey 2025](https://www.paiza.co.jp/news/20251222/251222_survey_programming_2025/) - Based on paiza job ads: JavaScript (14.4%), Java (13.9%), and PHP (11.0%) have the largest share of openings; Go has the highest offered salary for the third year.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=142): JavaScript 63%, Python 56%, HTML/CSS 54%, SQL 49%, TypeScript 49%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/jp) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, C++, C.
+- [paiza](https://paiza.jp/) - Coding-test based developer job platform.
+- [Findy](https://findy-code.io/) - Developer job platform that scores GitHub activity.
+- [RubyKaigi](https://rubykaigi.org/) - Ruby conference.
+- [PyCon JP](https://www.pycon.jp/) - Python conference.
+- [JSConf JP](https://jsconf.jp/) - JavaScript conference.
+
+### South Korea
+
+- [Programmers developer survey reports](https://programmers.co.kr/pages/survey) - Annual Korean developer surveys from 2018 to 2023 covering languages, salaries, and hiring.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/kr) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, Java, C++.
+- [Wanted](https://www.wanted.co.kr/) - Job board widely used for tech roles.
+- [Jumpit](https://jumpit.saramin.co.kr/) - Developer job board run by Saramin.
+- [if(kakao)](https://if.kakao.com/) - Kakao's developer conference.
+- [DEVIEW](https://deview.kr/) - NAVER's developer conference.
+- [PyCon Korea](https://pycon.kr/) - Python conference.
+
+### Vietnam
+
+- [ITviec IT Salary and Recruitment Market Report 2025-2026](https://itviec.com/report/vietnam-it-salary-and-recruitment-market) - Survey of 1,839 IT professionals, HR leaders, and executives run in 2025.
+- [TopDev Vietnam IT Market Reports](https://topdev.vn/page/vietnam-it-market-reports) - Annual reports on the Vietnamese IT workforce and hiring.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/vn) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, Java, C#.
+- [ITviec](https://itviec.com/) - IT job board.
+- [TopDev](https://topdev.vn/) - IT job board.
+
+### Indonesia
+
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) - Indonesia ranks 8th by GitHub developers (4.37 million) and more than quadrupled its count from 2020 to 2025.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=110): JavaScript 77%, SQL 70%, HTML/CSS 66%, TypeScript 51%, PHP 48%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/id) - Top languages by developers pushing code, 2026 Q1: JavaScript, TypeScript, PHP, Python, C++.
+- [Glints](https://glints.com/id) - Job board widely used for tech roles.
+- [PyCon ID](https://www.pycon.id/) - Python conference.
+
+### Australia
+
+- [ACS Australia's Digital Pulse](https://www.acs.org.au/campaign/digital-pulse.html) - Annual Australian Computer Society report on the tech workforce and skills shortages.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) - Most used by professional developers (computed from the public dataset, n=580): JavaScript 73%, HTML/CSS 66%, SQL 66%, TypeScript 55%, Bash/Shell 55%.
+- [GitHub Innovation Graph](https://innovationgraph.github.com/economies/au) - Top languages by developers pushing code, 2026 Q1: JavaScript, Python, TypeScript, C++, C.
+- [SEEK](https://www.seek.com.au/) - General job board with a large IT section.
+- [YOW!](https://yowcon.com/) - Software development conference series.
+- [PyCon AU](https://pycon.org.au/) - Python conference.
 
 ## Contributing
 
